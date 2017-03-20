@@ -1,0 +1,97 @@
+body{
+	margin:0;
+	padding:0;
+	background:url(pic/bg.gif) repeat-x #eeeee4;
+	font: 8pt "Tahoma", Trebuchet MS;}
+
+P{
+	margin-bottom:5px;
+	margin-top:5px;}
+	
+.tx P{
+	margin-bottom:10px;
+	margin-top:10px;}
+
+h1{
+	padding: 0 0 0 20px;
+	margin-bottom:3px;
+	font: 14pt "Tahoma", Trebuchet MS;}
+	
+h2{
+	margin-bottom:3px;
+	font: 12pt "Tahoma", Trebuchet MS;}
+
+.lines{
+	background:url(pic/lines-02.gif) no-repeat}
+
+
+a{
+	color:#1882ac;
+	text-decoration:underline;}
+	
+a:hover{
+	color:#11749b;
+	text-decoration:none;}
+
+.copy-line-01{
+	background:url(pic/c-line-01.gif) repeat-x}
+
+.copy-line-02{
+	background:url(pic/line-copy.gif) no-repeat;}
+	
+.copy{
+	padding:12px 0 41px 12px ;
+	font: 8pt "Tahoma", Trebuchet MS;
+	color:#a4a4a4}
+
+.copy2{
+	padding:12px 0 41px 20px ;
+	font: 8pt "Tahoma", Trebuchet MS;
+	color:#a4a4a4}
+
+.made{
+	font: 7pt "Tahoma", Trebuchet MS;}
+
+.made a{
+	color:#a4a4a4;
+	text-decoration:underline;}
+	
+.made a:hover{
+	color:#a4a4a4;
+	text-decoration:none;}
+
+.mail{
+	padding:12px 12px 0 0;}
+
+.menu{
+	background:url(pic/menu-bg.gif) repeat-x;}
+
+.menu-tx{
+	font: 11pt "Arial", Trebuchet MS;
+	color:#1882ac;
+	padding:27px 0 30px 20px;}
+
+.menu a:hover{
+	color:#2f99c3;
+	text-decoration:none;}
+
+.menu a{
+	color:#1882ac;
+	text-decoration:underline;}
+
+.tx{
+	font: 10pt "Tahoma", Trebuchet MS;
+	padding: 0 20px 20px 20px;}
+	
+.nav{
+	padding:0 0 15px 20px;
+	font: 7pt "Tahoma", Trebuchet MS;
+	color:#a4a4a4;}
+
+.nav a{
+	color:#a4a4a4;
+	text-decoration:underline;}
+	
+.nav a:hover{
+	color:#a4a4a4;
+	text-decoration:none;}
